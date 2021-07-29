@@ -1,4 +1,10 @@
 <body>
   background-color: #ADD8E6;
   font-size: 40px;
+
+  #title {
+    font-size: 50px;
+    margin: auto;
+    width: 50%;
+}
 </body>
